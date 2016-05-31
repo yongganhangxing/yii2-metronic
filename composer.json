@@ -5,9 +5,18 @@
     "type": "yii2-extension",
     "license": "BSD",
     "support": {
-        "forum": "",
-        "wiki": ""
+        "forum": "https://github.com/icron/yii2-metronic/issues",
+        "forum": "http://www.yiiframework.com/forum/",
+        "wiki": "http://www.yiiframework.com/wiki/",
+        "source": "https://github.com/icron/yii2-metronic"
     },
+    
+    "authors": [
+        {
+            "name": "Alexander Lukyanchikov",
+            "email": "arbuscula@mail.ru"
+        }
+    ],
 
     "require": {
         "yiisoft/yii2": "*"
